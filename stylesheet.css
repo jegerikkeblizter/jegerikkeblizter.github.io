@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.pookie-daniel{
+    position: absolute;
+    top: 20%;
+    left: 32%;
+    justify-content: center;
+}
+
+.pic {
+    position: absolute;
+    top: 30%;
+    left: 32%;
+}
+
+.real-pic{
+    animation-name: pics;
+    animation-duration: 4s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes pics {
+    0%{
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
