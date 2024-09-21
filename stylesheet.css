@@ -73,3 +73,9 @@
     top: 50%;
     left: 1%;
 }
+
+.song {
+    position: absolute;
+    top: 10%;
+    left: 35%;
+}
