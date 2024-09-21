@@ -31,3 +31,45 @@
         transform: rotate(360deg);
     }
 }
+
+.pookie-bare-140 {
+    position: absolute;
+    top: 120%;
+    left: 20%;
+}
+
+.kg140 {
+    position: absolute;
+    top: 130%;
+    left: 38%;
+}
+
+.men-nå{
+    position: absolute;
+    top: 200%;
+    left: 15%;
+}
+
+.kg160{
+    position: absolute;
+    top: 210%;
+    left: 38%;
+}
+
+.stolt-txt {
+    position: absolute;
+    top: 290%;
+    left: 30%;
+}
+
+.stolt-pic {
+    position: absolute;
+    top: 300%;
+    left: 10%;
+}
+
+.blad-ned{
+    position: absolute;
+    top: 50%;
+    left: 1%;
+}
